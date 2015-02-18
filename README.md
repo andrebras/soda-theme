@@ -8,7 +8,7 @@ Project site: [http://buymeasoda.github.com/soda-theme/](http://buymeasoda.githu
 
 ![Soda Light Theme](http://buymeasoda.github.com/soda-theme/images/screenshots/soda-2-light-theme.png?v=4)
 
-![Soda Dark Theme](http://buymeasoda.github.com/soda-theme/images/screenshots/soda-2-dark-theme.png?v=2)
+![Soda Dark Theme](https://www.dropbox.com/s/shye6bnfnn61sm7/Screenshot%202015-02-18%2000.12.04.png?dl=0)
 
 ## Installation
 
