@@ -569,7 +569,7 @@
     // Sidebar rows
     {
         "class": "tree_row",
-        "layer0.texture": "Theme - Soda/Soda Light/sidebar-row-selected.png",
+        "layer0.texture": "Theme - Soda/Soda Dark/sidebar-row-selected.png",
         "layer0.opacity": 0.0,
         "layer0.inner_margin": [1, 1]
     },
@@ -631,8 +631,8 @@
     {
         "class": "sidebar_label",
         "parents": [{"class": "tree_row", "attributes": ["selected"]}],
-        "color": [255, 255, 255],
-        "shadow_color": [34, 94, 145],
+        "color": [210, 210, 210],
+        "shadow_color": [0, 0, 0],
         "shadow_offset": [0, 1]
     },
     // Sidebar entry transient
